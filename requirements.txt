@@ -1,0 +1,3 @@
+tensorflow 1.8.0
+gensim 2.0.0
+jieba 0.39
